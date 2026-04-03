@@ -1,0 +1,35 @@
+[
+  {
+    "file": "convolution.cu",
+    "arguments": [
+      "nvcc",
+      "convolution.cu",
+      "-o",
+      "convolution"
+    ],
+    "directory": "/home/lee/Documents/HPC/assignment_1",
+    "output": "convolution"
+  },
+  {
+    "file": "/tmp/tmpxft_00004e4e_00000000-6_convolution.cudafe1.cpp",
+    "arguments": [
+      "g++",
+      "-D__CUDA_ARCH__=750",
+      "-D__CUDA_ARCH_LIST__=750",
+      "-c",
+      "-x",
+      "c++",
+      "-DCUDA_DOUBLE_MATH_FUNCTIONS",
+      "-Wno-psabi",
+      "-I/opt/cuda/bin/../targets/x86_64-linux/include",
+      "-isystem",
+      "/opt/cuda/bin/../targets/x86_64-linux/include/cccl",
+      "-m64",
+      "/tmp/tmpxft_00004e4e_00000000-6_convolution.cudafe1.cpp",
+      "-o",
+      "/tmp/tmpxft_00004e4e_00000000-11_convolution.o"
+    ],
+    "directory": "/home/lee/Documents/HPC/assignment_1",
+    "output": "/tmp/tmpxft_00004e4e_00000000-11_convolution.o"
+  }
+]

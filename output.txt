@@ -1,0 +1,57 @@
+Serial sharpening time: 0.002854 seconds
+Cuda global sharpening time: 0.000209 seconds
+Cuda shared sharpening time: 0.000060 seconds
+
+
+Serial embossing time: 0.006875 seconds
+Cuda global embossing time: 0.001197 seconds
+Cuda shared embossing time: 0.000204 seconds
+
+
+Serial averaging time with kernel size 3: 0.001615 seconds
+Cuda global averaging time with kernel size 3: 0.000070 seconds
+Cuda shared averaging time with kernel size 3: 0.000058 seconds
+
+Serial averaging time with kernel size 5: 0.003723 seconds
+Cuda global averaging time with kernel size 5: 0.000063 seconds
+Cuda shared averaging time with kernel size 5: 0.000060 seconds
+
+Serial averaging time with kernel size 7: 0.008824 seconds
+Cuda global averaging time with kernel size 7: 0.000113 seconds
+Cuda shared averaging time with kernel size 7: 0.000066 seconds
+
+Serial averaging time with kernel size 9: 0.012554 seconds
+Cuda global averaging time with kernel size 9: 0.000124 seconds
+Cuda shared averaging time with kernel size 9: 0.000073 seconds
+
+Serial averaging time with kernel size 11: 0.018816 seconds
+Cuda global averaging time with kernel size 11: 0.000134 seconds
+Cuda shared averaging time with kernel size 11: 0.000115 seconds
+
+Serial averaging time with kernel size 13: 0.024255 seconds
+Cuda global averaging time with kernel size 13: 0.000138 seconds
+Cuda shared averaging time with kernel size 13: 0.000117 seconds
+
+Serial averaging time with kernel size 15: 0.036064 seconds
+Cuda global averaging time with kernel size 15: 0.000142 seconds
+Cuda shared averaging time with kernel size 15: 0.000099 seconds
+
+Serial averaging time with kernel size 17: 0.044178 seconds
+Cuda global averaging time with kernel size 17: 0.000173 seconds
+Cuda shared averaging time with kernel size 17: 0.000116 seconds
+
+Serial averaging time with kernel size 19: 0.055494 seconds
+Cuda global averaging time with kernel size 19: 0.000179 seconds
+Cuda shared averaging time with kernel size 19: 0.000134 seconds
+
+Serial averaging time with kernel size 21: 0.064123 seconds
+Cuda global averaging time with kernel size 21: 0.000195 seconds
+Cuda shared averaging time with kernel size 21: 0.000156 seconds
+
+Serial averaging time with kernel size 23: 0.076231 seconds
+Cuda global averaging time with kernel size 23: 0.000206 seconds
+Cuda shared averaging time with kernel size 23: 0.000160 seconds
+
+Serial averaging time with kernel size 25: 0.088804 seconds
+Cuda global averaging time with kernel size 25: 0.000231 seconds
+Cuda shared averaging time with kernel size 25: 0.000177 seconds
